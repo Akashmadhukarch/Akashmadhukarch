@@ -1,16 +1,15 @@
 <h2 align="left">
 Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer from India 🇮🇳
 </h2>
+
 ###
 
 <h3 align="left">🧠 AI • LLM • Generative AI</h3>
 
 <div align="center">
-
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*Q7q3z8N6WzCYwiVdc0pVQg.png" height="140" />
-  <img width="20" />
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*3QhQ9I4zZr5xL7hIwrKyYg.png" height="140" />
-
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" height="120"/>
+  <img width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149675.png" height="120"/>
 </div>
 
 <p align="center">
@@ -19,12 +18,11 @@ Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vect
 
 ###
 
-
-###
-
 <img align="right" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ###
+
+<h3 align="left">⚙️ Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
@@ -47,6 +45,8 @@ Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vect
 </div>
 
 ###
+
+<h3 align="left">🌐 Connect With Me</h3>
 
 <div align="left">
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
