@@ -1,62 +1,50 @@
-<h1 align="center">Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY</h1>
-<h3 align="center">🚀 AI • ML Engineer | LLMs | GenAI Enthusiast</h3>
+<h2 align="left">Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer from India 🇮🇳</h2>
 
----
+###
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashmadhukarch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashmadhukarch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 Currently working on **LLMs & Generative AI**
-- 🌱 Learning **LangChain, Vector Databases, RAG Systems**
-- 🎓 3rd Year BTech Student
-- 📫 Reach me at: **chalamalasettyakashmadhukar@gmail.com**
+###
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
-## 🌐 Connect With Me
+###
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/YOUR_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:chalamalasettyakashmadhukar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://youtube.com/YOUR_LINK" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 🛠 Languages & Tools
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,mongodb,mysql,git,aws,tensorflow,pytorch,sklearn,html,css" />
-</p>
+###
 
----
+<br clear="both">
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/akashmadhukarch/akashmadhukarch/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashmadhukarch&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashmadhukarch&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashmadhukarch&theme=tokyo-night" />
-</p>
-
----
-
-⭐️ From [Akash Madhukar Chalamalasetty](https://github.com/akashmadhukarch)
+###
