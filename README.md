@@ -1,6 +1,24 @@
 <h2 align="left">
 Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer from India 🇮🇳
 </h2>
+###
+
+<h3 align="left">🧠 AI • LLM • Generative AI</h3>
+
+<div align="center">
+
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*Q7q3z8N6WzCYwiVdc0pVQg.png" height="140" />
+  <img width="20" />
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*3QhQ9I4zZr5xL7hIwrKyYg.png" height="140" />
+
+</div>
+
+<p align="center">
+Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vector Databases, and AI Agents</b>.
+</p>
+
+###
+
 
 ###
 
