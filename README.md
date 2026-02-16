@@ -5,12 +5,15 @@ Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer 
 ###
 
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akashmadhukarch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashmadhukarch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
 
   <!-- Language Percentage Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmadhukarch&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmadhukarch&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
+
 </div>
+
 
 ###
 
