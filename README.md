@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer from India 🇮🇳
+Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer 
 </h2>
 
 ###
