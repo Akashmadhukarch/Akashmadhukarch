@@ -4,20 +4,7 @@ Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer 
 
 ###
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akashmadhukarch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
-
-  <!-- Language Percentage Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmadhukarch&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
-
-</div>
-
-
-###
-
-<img align="right" height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ###
 
@@ -57,7 +44,6 @@ Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer 
 
 <br clear="both">
 
-<!-- Snake Contribution Animation -->
 <img src="https://raw.githubusercontent.com/akashmadhukarch/akashmadhukarch/output/snake.svg" alt="Snake animation" />
 
 ###
