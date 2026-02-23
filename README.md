@@ -6,21 +6,7 @@ Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer
 
 <h3 align="left">🧠 AI • LLM • Generative AI</h3>
 
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" height="120"/>
-  <img width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149675.png" height="120"/>
-</div>
-<div align="left">
-  <!-- LLM Icon -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" height="35" />
-  <img width="12" />
-</div>
-<div align="right">
-  <!-- LLM Icon -->
- <img src="https://cdn-icons-png.flaticon.com/512/4149/4149675.png" height="35" />
-  <img width="12" />
-</div>
+
 
 <p align="center">
 Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vector Databases, and AI Agents</b>.
