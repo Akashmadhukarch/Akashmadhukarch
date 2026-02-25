@@ -60,7 +60,7 @@ Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vect
   <!-- Deep Lake -->
   <img src="https://avatars.githubusercontent.com/u/64611626?s=200&v=4" height="35" />
 </div>
-###
+
 
 <h3 align="left">🌐 Connect With Me</h3>
 
