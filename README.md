@@ -6,8 +6,6 @@ Hi 👋! My name is AKASH MADHUKAR CHALAMALASETTY and I'm an AI • ML Engineer
 
 <h3 align="left">🧠 AI • LLM • Generative AI</h3>
 
-
-
 <p align="center">
 Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vector Databases, and AI Agents</b>.
 </p>
@@ -48,6 +46,10 @@ Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vect
   <!-- LangChain -->
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35" />
   <img width="12" />
+
+  <!-- LlamaIndex -->
+  <img src="https://avatars.githubusercontent.com/u/132696209?s=200&v=4" height="35" />
+  <img width="12" />
   
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="35" />
@@ -60,7 +62,6 @@ Building intelligent systems using <b>Large Language Models, RAG Pipelines, Vect
   <!-- Deep Lake -->
   <img src="https://avatars.githubusercontent.com/u/64611626?s=200&v=4" height="35" />
 </div>
-
 
 <h3 align="left">🌐 Connect With Me</h3>
 
